@@ -46,22 +46,6 @@
     - [Docker Commit](#docker-commit)
     - [Docker Save-Load](#docker-save-load)
     - [Registry](#registry)
-- [Compose ve Swarm](#compose-ve-swarm)
-  - [Docker Compose](#docker-compose)
-    - [Docker Compose CLI](#docker-compose-cli)
-    - [Docker Compose Yaml Dosyası](#docker-compose-yaml-dosyası)
-    - [Docker Compose Build](#docker-compose-build)
-  - [Container Orchestration](#container-orchestration)
-    - [Docker Swarm](#docker-swarm)
-    - [Swarm Manager ve Worker Node](#swarm-manager-ve-worker-node)
-      - [Manager Node](#manager-node)
-      - [Worker Node](#worker-node)
-    - [Docker Swarm init](#docker-swarm-init)
-    - [Swarm Service](#swarm-service)
-    - [Overlay Network](#overlay-network)
-- [Docker Secret](#docker-secret)
-- [Docker Stack](#docker-stack)
-
 
 # Giriş
 Docker öğrenirken aldığım notlar. 
